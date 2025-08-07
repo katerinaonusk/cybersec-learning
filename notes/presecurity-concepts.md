@@ -1,6 +1,9 @@
 *Notes from the TryHackMe Presecurity course, written for quick review and better understanding of key concepts.*
 
 --------------------------------------------------------------------------------------------------
+*Introduction*
+
+--------------------------------------------------------------------------------------------------
 - **Offensive Security** - simulating a hacker to improve security
 - **Roles**:
   - **Penetration Tester** - tests system vulnerabilities
@@ -24,3 +27,8 @@
   - **Analysis methods**:
     - **Static Analysis** – Inspecting the malware without running it (e.g. viewing its assembly code)
     - **Dynamic Analysis** – Running the malware in a controlled environment (e.g. virtual machine) to observe its behavior
+
+--------------------------------------------------------------------------------------------------
+*Network Fundamental*
+
+--------------------------------------------------------------------------------------------------

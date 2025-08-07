@@ -1,5 +1,5 @@
 
-# Notes from the TryHackMe Presecurity course, written for quick review and better understanding of key concepts.
+*Notes from the TryHackMe Presecurity course, written for quick review and better understanding of key concepts.*
 
 - **Offensive Security** - simulating a hacker to improve security
   **Roles**:

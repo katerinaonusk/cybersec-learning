@@ -16,11 +16,11 @@
 1. **Digital Forensics** - After an attack, specialists investigate the incident: (What happened? How did it happen? When did it happen?) They analyze hard drives, RAM, system logs, and network communication.
 2. **Incident Response** - After an attack, the goal is to reduce damage, stop the threat and restore the system to its original state
 3. **Malware Analysis** - studying what the malware actually does.
-    - Types of malware:
-    - Viruses – Modify, overwrite, or delete files
-    - Trojan horse – The victim downloads a fake program (e.g. a video player), and the attacker gains control
-    - Ransomware – The attacker demands payment; if the victim pays, they get a key to unlock their data
+    - **Types of malware**:
+      - **Viruses** – Modify, overwrite, or delete files
+      - **Trojan horse** – The victim downloads a fake program (e.g. a video player), and the attacker gains control
+      - **Ransomware** – The attacker demands payment; if the victim pays, they get a key to unlock their data
 
-  - Analysis methods:
-    - Static Analysis – Inspecting the malware without running it (e.g. viewing its assembly code)
-    - Dynamic Analysis – Running the malware in a controlled environment (e.g. virtual machine) to observe its behavior
+  - **Analysis methods**:
+    - **Static Analysis** – Inspecting the malware without running it (e.g. viewing its assembly code)
+    - **Dynamic Analysis** – Running the malware in a controlled environment (e.g. virtual machine) to observe its behavior

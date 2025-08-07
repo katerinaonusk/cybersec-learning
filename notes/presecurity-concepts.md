@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------------------------
 - **Offensive Security** - simulating a hacker to improve security
-  **Roles**:
+- **Roles**:
   - **Penetration Tester** - tests system vulnerabilities
   - **Red Teamer** - simulates a real attack
   - **Security Engineer** - builds protection and security systems

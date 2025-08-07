@@ -1,23 +1,12 @@
-**Offensive Security** – simulating a hacker to improve security
-
-Roles:
-
-  **Penetration Tester** – tests system vulnerabilities
-  
-  **Red Teamer** – simulates a real attack
-  
-  **Security Engineer** – builds protection and security systems
-
-**Defensive Security** – **Blue Teams**: know how to react to an attack
-
-**SOC (Security Operations Center)**: Experts who monitor the network for threats. They use SIEM systems to block the attacker’s connection.
-
-**Threat Analysis** – Logs and public articles give us data about hackers
-  
-  Who is attacking?
-  
-  What methods are used?
-  
-  Why are they attacking?
-
-**DFIR (Digital Forensics and Incident Response)** - Investigation and response to security incidents
+- **Offensive Security** - simulating a hacker to improve security
+  **Roles**:
+  - **Penetration Tester** - tests system vulnerabilities
+  - **Red Teamer** - simulates a real attack
+  - **Security Engineer** - builds protection and security systems
+- **Defensive Security** - **Blue Teams** - know how to react to an attack
+- **SOC (Security Operations Center)** - Experts who monitor the network for threats. They use SIEM systems to block the attacker’s connection.
+- **Threat Analysis** - Logs and public articles give us data about hackers
+  - Who is attacking? 
+  - What methods are used? 
+  - Why are they attacking?
+- **DFIR (Digital Forensics and Incident Response)** - Investigation and response to security incidents
